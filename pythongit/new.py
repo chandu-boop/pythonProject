@@ -1,0 +1,6 @@
+new=int(input("enter the number"))
+new1=int(input("enter the number "))
+add=int(new+new1)
+sub=int(new-new1)
+print(add)
+print(sub)
